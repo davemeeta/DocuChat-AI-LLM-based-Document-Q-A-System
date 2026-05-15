@@ -4,6 +4,7 @@ Ask questions about any PDF and get accurate, cited answers instantly.
 Built with RAG (Retrieval Augmented Generation) architecture.
 
 ## Screenshot
+Screenshot.png
 
 
 ## 🛠️ Tech Stack
