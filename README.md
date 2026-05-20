@@ -1,4 +1,4 @@
-# 📄 Doc Intel — AI Document Assistant
+# 📄 AI-powered document intelligence platform
 
 Ask questions about any PDF and get accurate, cited answers instantly.
 Built with RAG (Retrieval Augmented Generation) architecture.
